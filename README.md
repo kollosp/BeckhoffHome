@@ -6,7 +6,7 @@ The home automation systems consist of two elements:
 This is the usual approach to deal with that kind of project. 
 
 # Beckhoff PLC
-Beckhoff PLC is a brain that handles all signals coming from or to home devices such as wall buttons, door contact sensors, fans, or lights. Once you push the button on the wall, PLC will be informed, and the corresponding light will be turned on. The project is stored in [repo](todo: link to repo).
+Beckhoff PLC is a brain that handles all signals coming from or going to devices such as wall buttons, door contact sensors, fans, or lights. Once you push the button on the wall, PLC will be informed, and the corresponding light will be turned on. The project is stored in [repo](todo: link to repo).
 
 
 # HomeAssistant
