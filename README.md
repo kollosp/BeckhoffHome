@@ -10,4 +10,4 @@ Beckhoff PLC is a brain that handles all signals coming from or to home devices 
 
 
 # HomeAssistant
-Thanks to [https://www.home-assistant.io/](Home assistant), it is easy to make data storage and visualization using already prepared Beckhoff's integration. It uses Ethernet and ADS protocol.
+Thanks to [Home Assistant](https://www.home-assistant.io/), it is easy to make data storage and visualization using already prepared Beckhoff's integration. It uses Ethernet and ADS protocol.
