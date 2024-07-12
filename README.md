@@ -1,7 +1,7 @@
 # HomeAutomation 
 The home automation systems consist of two elements:
-* Beckhoff PLC,
-* HomeAssistant.
+* Beckhoff PLC - the execution element,
+* HomeAssistant - the visualisation.
 
 This is the usual approach to deal with that kind of project. 
 
